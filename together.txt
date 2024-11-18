@@ -1,0 +1,3 @@
+CAPSTONE PROJECT IDEAS
+
+Use data analytics to optimise EV charging station performance. (Noel)
